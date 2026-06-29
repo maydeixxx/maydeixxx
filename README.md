@@ -58,7 +58,6 @@
 - Dynamic Rule Engine для расчёта кэшбэка
 - Kafka resilience (Retry mechanism + Dead Letter Queue)
 - Optimistic Locking для предотвращения Race Condition
-- Rate Limiter на публичных API (защита от перегрузки)
 - Redis кэширование с TTL для оптимизации производительности
 - RestControllerAdvice для централизованной обработки ошибок
 
